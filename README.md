@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yinka
 - 👀 I’m a fullstack web developer and interested in web technologies
-- 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on fullstack web development
 - 📫 How to reach me: My Email Adress is Babawarunn@yahoo.com
 
